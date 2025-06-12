@@ -6,3 +6,4 @@ Proyecto para [explica brevemente qué hace tu programa].
 2. Ejecutarlo en Windows.  
 
 Creado por [tu nombre].  
+  
