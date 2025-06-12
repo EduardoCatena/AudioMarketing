@@ -1,0 +1,15 @@
+/workspaces/AudioMarketing/AudioMarketing/bin/Debug/net8.0/AudioMarketing
+/workspaces/AudioMarketing/AudioMarketing/bin/Debug/net8.0/AudioMarketing.deps.json
+/workspaces/AudioMarketing/AudioMarketing/bin/Debug/net8.0/AudioMarketing.runtimeconfig.json
+/workspaces/AudioMarketing/AudioMarketing/bin/Debug/net8.0/AudioMarketing.dll
+/workspaces/AudioMarketing/AudioMarketing/bin/Debug/net8.0/AudioMarketing.pdb
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.AssemblyInfoInputs.cache
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.AssemblyInfo.cs
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.csproj.CoreCompileInputs.cache
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.sourcelink.json
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.dll
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/refint/AudioMarketing.dll
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.pdb
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/AudioMarketing.genruntimeconfig.cache
+/workspaces/AudioMarketing/AudioMarketing/obj/Debug/net8.0/ref/AudioMarketing.dll
